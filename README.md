@@ -1,3 +1,4 @@
 # express-tutorial
 pratice backend using express,...
-command to run: npm run start:dev
+---
+command to run: npm run dev
